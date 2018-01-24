@@ -379,6 +379,8 @@
     <Node Name="" DisplayName="Design Details: General Journal Post Line" Page="design-details-general-journal-post-line.html"/>
   </Node>
   <Node Name="" DisplayName="DMS" Page="design-details-appliction-design.html">
+    <Node Name="" DisplayName="DMS: Documents" Page="design-details-dimension-set-entries.html"/>
+  </Node>
   <Node Name="" DisplayName="Local Functionality" Page="index.html">
     <Node Name="" DisplayName="Australia" Page="LocalFunctionality/Australia/australia-local-functionality.html"/>
     <Node Name="" DisplayName="Austria" Page="LocalFunctionality/Austria/austria-local-functionality.html"/>
